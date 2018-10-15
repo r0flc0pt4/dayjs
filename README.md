@@ -38,6 +38,8 @@ dayjs().startOf('month').add(1, 'day').set('year', 2018).format('YYYY-MM-DD HH:m
 
 ---
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/dayjs.svg)](https://www.guardrails.io)
+
 ## Getting Started
 
 ### Installation
